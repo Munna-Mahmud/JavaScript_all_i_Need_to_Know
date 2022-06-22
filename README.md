@@ -11,14 +11,9 @@ Learn JavaScript Zero to Uper Intermediate Level With Notes/Code explanation
 # statement.js
 # math.js
 # date.js
-#
-#
-#
-#
-#
-#
-#
-#
+# ifCondition.js
+# elseCondition.js
+# elseifCondition.js
 #
 #
 #
