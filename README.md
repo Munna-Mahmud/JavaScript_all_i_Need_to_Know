@@ -7,10 +7,10 @@ Learn JavaScript Zero to Uper Intermediate Level With Notes/Code explanation
 # reservedWords.js
 # datatypes.js
 # typeConversation.js
-# datatypes
-#
-#
-#
+# datatypes.js
+# statement.js
+# math.js
+# date.js
 #
 #
 #
