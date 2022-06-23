@@ -2,7 +2,7 @@
 // 1. If condition
 // 2. Else condition
 // 3. Else if Condition
-// 4. Switch Statement
+// 4. Switch case Statement
 
 
 

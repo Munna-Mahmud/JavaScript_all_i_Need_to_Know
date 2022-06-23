@@ -14,3 +14,4 @@
 ### ifCondition.js
 ### elseCondition.js
 ### elseifCondition.js
+### logicalOperators.js
