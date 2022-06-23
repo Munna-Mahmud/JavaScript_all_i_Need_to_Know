@@ -15,3 +15,4 @@
 ### elseCondition.js
 ### elseifCondition.js
 ### logicalOperators.js
+### ternary.js
