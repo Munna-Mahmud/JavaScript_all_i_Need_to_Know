@@ -16,3 +16,7 @@
 ### elseifCondition.js
 ### logicalOperators.js
 ### ternary.js
+### loops.js
+### forLoops.js
+### whileLoop.js
+### nestedLoop.js
