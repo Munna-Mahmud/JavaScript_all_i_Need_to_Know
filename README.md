@@ -20,3 +20,5 @@
 ### forLoops.js
 ### whileLoop.js
 ### nestedLoop.js
+### Break.js
+### infinityLoop.js
