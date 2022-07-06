@@ -22,3 +22,7 @@
 ### nestedLoop.js
 ### Break.js
 ### infinityLoop.js
+
+## Array 
+
+### array.js
