@@ -26,3 +26,6 @@
 ## Array 
 
 ### array.js
+### arrayTraversing.js
+### insertRemove.js.js
+### multidimensional.js
