@@ -29,3 +29,8 @@
 ### arrayTraversing.js
 ### insertRemove.js.js
 ### multidimensional.js
+### reverse.js
+
+## Object 
+
+### intro.js
