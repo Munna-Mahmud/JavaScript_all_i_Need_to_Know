@@ -36,3 +36,9 @@
 ### intro.js
 ### methods.js
 ### compare.js
+
+## Function 
+
+### function.js
+### arguments/parameters.js
+### Return.js
