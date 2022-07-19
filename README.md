@@ -42,3 +42,5 @@
 ### function.js
 ### arguments/parameters.js
 ### Return.js
+### innerFunction.js
+### scope.js
