@@ -23,7 +23,7 @@ function hello() {
     //code
 }
 
-hello();
+hello(); //function call meanas invoking kora 
 
 // Below are the rules for creating Js function:
 

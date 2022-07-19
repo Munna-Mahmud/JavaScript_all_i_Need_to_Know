@@ -34,3 +34,5 @@
 ## Object 
 
 ### intro.js
+### methods.js
+### compare.js
