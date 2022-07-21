@@ -39,8 +39,10 @@
 
 ## Function 
 
-### function.js
-### arguments/parameters.js
-### Return.js
-### innerFunction.js
+### -function.js
+<li> arguments/parameters.js</li>
+<li> Return.js</li>
+<li> innerFunction.js</li>
+
 ### scope.js
+
