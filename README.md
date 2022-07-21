@@ -39,10 +39,15 @@
 
 ## Function 
 
-### -function.js
+### function.js
 <li> arguments/parameters.js</li>
 <li> Return.js</li>
 <li> innerFunction.js</li>
+<li>Scope.js</li>
 
-### scope.js
+<!-- <li> </li> -->
+<h1>### FunctionalProgramming </h1>
 
+<li> intro.js</li> 
+<li> pureFunction.js </li> 
+<li>firstClassFunction.js </li> 
