@@ -1,53 +1,53 @@
 # Learn JavaScript Zero to Uper Intermediate Level With Notes/Code explanation
 
-## File Serial Here
+<h1>## FileSerial Here</h1>
 
-### hello.js
-### variable.js
-### reservedWords.js
-### datatypes.js
-### typeConversation.js
-### datatypes.js
-### statement.js
-### math.js
-### date.js
-### ifCondition.js
-### elseCondition.js
-### elseifCondition.js
-### logicalOperators.js
-### ternary.js
-### loops.js
-### forLoops.js
-### whileLoop.js
-### nestedLoop.js
-### Break.js
-### infinityLoop.js
+<li> hello.js</li>
+<li> variable.js</li>
+<li> reservedWords.js</li>
+<li> datatypes.js</li>
+<li> typeConversation.js</li>
+<li> datatypes.js</li>
+<li> Statement.js</li>
+<li> math.js</li>
+<li> date.js</li>
+<li> ifCondition.js</li>
+<li> elseCondition.js</li>
+<li> elseifCondition.js</li>
+<li> logicalOperators.js</li>
+<li> ternary.js</li>
+<li> loops.js</li>
+<li> forLoops.js</li>
+<li> whileLoop.js</li>
+<li> nestedLoop.js</li>
+<li> Break.js</li>
+<li> infinityLoop.js</li>
 
-## Array 
+<h1>## Array </h1>
 
-### array.js
-### arrayTraversing.js
-### insertRemove.js.js
-### multidimensional.js
-### reverse.js
+<li> array.js</li>
+<li> arrayTraversing.js</li>
+<li> insertRemove.js</li>
+<li> multidimensional.js</li>
+<li> reverse.js</li>
 
-## Object 
+<h1>## Object </h1>
 
-### intro.js
-### methods.js
-### compare.js
+<li> intro.js</li>
+<li> methods.js</li>
+<li> compare.js</li>
 
-## Function 
+<h1>## Function  </h1>
 
-### function.js
+<li> function.js</li>
 <li> arguments/parameters.js</li>
 <li> Return.js</li>
 <li> innerFunction.js</li>
-<li>Scope.js</li>
-
+<li>cope.js</li>
+<!-- <h1> </h1> -->
 <!-- <li> </li> -->
-<h1>### FunctionalProgramming </h1>
+<h1>## FunctionalProgramming </h1>
 
 <li> intro.js</li> 
 <li> pureFunction.js </li> 
-<li>firstClassFunction.js </li> 
+<li>firstClassFunction.js</li> 
