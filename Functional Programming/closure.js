@@ -13,6 +13,7 @@ var abc = ab()
 console.dir(abc);
 
 
+
 // example two 
 function makeFunc() {
     const name = 'Mozilla';
@@ -24,3 +25,5 @@ function makeFunc() {
   
   const myFunc = makeFunc();
   myFunc();
+
+

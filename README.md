@@ -51,3 +51,5 @@
 <li> intro.js</li> 
 <li> pureFunction.js </li> 
 <li>firstClassFunction.js</li> 
+<li>higherOrderfunction.js</li> 
+<li> Closure.js</li>
