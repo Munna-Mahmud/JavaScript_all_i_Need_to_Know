@@ -53,3 +53,5 @@
 <li>firstClassFunction.js</li> 
 <li>higherOrderfunction.js</li> 
 <li> Closure.js</li>
+<li> Closure.js</li>
+<li> foreach.js</li>
