@@ -28,3 +28,5 @@ document.getElementById("demo").innerHTML = sum;
 function myFunction(item) {
   sum += item;
 }
+
+
